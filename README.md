@@ -1,2 +1,1 @@
-# 53400755Maria.github.io
-Сайт РПИ
+# RPI_LR-2nd-sem
